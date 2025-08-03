@@ -56,5 +56,5 @@ blog-project/
 
 For queries, you can reach me at:  
 📧 nlokitha8@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/lokitha-narapureddy-44514b363)
+🔗 [LinkedIn](`www.linkedin.com/in/lokitha-narapureddy-44514b363`)
 

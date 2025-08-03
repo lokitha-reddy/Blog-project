@@ -26,7 +26,6 @@ blog-project/
 ├── README.md
 └── .gitignore
 ```
-
 ---
 
 ### 🔧 How to Run This Project
@@ -40,7 +39,7 @@ blog-project/
 ### 🌐 Links
 
 - 💻 [GitHub Repository](https://github.com/lokitha-reddy/Blog-project)
-- 📹 [LinkedIn Task Video]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/posts/activity-7357708994993369088-CUCd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpBjLUBaMKzgbxtDYBBZC0ctVx73_pi2w4))
+- 📹 [LinkedIn Task Video](https://www.linkedin.com/feed/update/urn:li:activity:7357708994993369088/)
 
 ---
 
@@ -56,5 +55,4 @@ blog-project/
 
 For queries, you can reach me at:  
 📧 nlokitha8@gmail.com  
-🔗 [LinkedIn](`www.linkedin.com/in/lokitha-narapureddy-44514b363`)
-
+🔗 [LinkedIn](www.linkedin.com/in/lokitha-narapureddy-44514b363)

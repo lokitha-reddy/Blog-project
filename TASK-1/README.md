@@ -20,10 +20,12 @@ This repository contains the initial setup for my PHP & MySQL web development pr
 
 ### 🛠 Project Structure
 
+```
 blog-project/
 ├── index.php
 ├── README.md
 └── .gitignore
+```
 
 ---
 

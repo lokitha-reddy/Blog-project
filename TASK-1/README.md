@@ -40,7 +40,7 @@ blog-project/
 ### 🌐 Links
 
 - 💻 [GitHub Repository](https://github.com/lokitha-reddy/Blog-project)
-- 📹 [LinkedIn Task Video](https://www.linkedin.com/in/yourprofile)
+- 📹 [LinkedIn Task Video]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/posts/activity-7357708994993369088-CUCd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpBjLUBaMKzgbxtDYBBZC0ctVx73_pi2w4))
 
 ---
 
